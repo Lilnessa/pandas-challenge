@@ -4,4 +4,4 @@
 
 ## Module 4 Challenge
 
-* Access file PyCitySchools_starter.ipynb
+* pandas-challenge/PyCitySchools_starter.ipynb
